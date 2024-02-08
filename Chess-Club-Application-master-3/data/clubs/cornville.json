@@ -1,0 +1,125 @@
+{
+    "name": "The Cornville Chess Masters",
+    "players": [
+        {
+            "name": "Tim",
+            "email": "t@y.vu",
+            "chess_id": "NG39713",
+            "birthday": "29-08-1957"
+        },
+        {
+            "name": "John Underwood",
+            "email": "shortmelvin@example.net",
+            "chess_id": "JW63361",
+            "birthday": "23-01-1921"
+        },
+        {
+            "name": "Shawn Key",
+            "email": "zbyrd@example.net",
+            "chess_id": "QZ98880",
+            "birthday": "05-08-1916"
+        },
+        {
+            "name": "Tyler Brown",
+            "email": "watersbob@example.net",
+            "chess_id": "QQ22510",
+            "birthday": "07-05-2001"
+        },
+        {
+            "name": "Whitney Hernandez",
+            "email": "rortiz@example.org",
+            "chess_id": "QF01697",
+            "birthday": "10-11-1921"
+        },
+        {
+            "name": "Jeff Boyer",
+            "email": "heatherbowman@example.net",
+            "chess_id": "BR95594",
+            "birthday": "06-01-1930"
+        },
+        {
+            "name": "Paul Miller",
+            "email": "stokessandra@example.net",
+            "chess_id": "GN87065",
+            "birthday": "02-05-1972"
+        },
+        {
+            "name": "Shaun Martinez",
+            "email": "willie67@example.net",
+            "chess_id": "LH07588",
+            "birthday": "04-09-1938"
+        },
+        {
+            "name": "Randall Jones",
+            "email": "candiceherrera@example.net",
+            "chess_id": "NT52182",
+            "birthday": "22-11-1914"
+        },
+        {
+            "name": "Tina Thomas",
+            "email": "jonathan34@example.com",
+            "chess_id": "LA84930",
+            "birthday": "13-09-1975"
+        },
+        {
+            "name": "Abigail Walsh",
+            "email": "justinmartin@example.com",
+            "chess_id": "NF64548",
+            "birthday": "18-03-1931"
+        },
+        {
+            "name": "Bradley Lewis",
+            "email": "evansdavid@example.net",
+            "chess_id": "NG39064",
+            "birthday": "20-05-1971"
+        },
+        {
+            "name": "Andrew Foley",
+            "email": "sharonbrown@example.org",
+            "chess_id": "AA20548",
+            "birthday": "12-03-1977"
+        },
+        {
+            "name": "Debra Wright",
+            "email": "masonfrancis@example.org",
+            "chess_id": "KX94073",
+            "birthday": "23-10-2002"
+        },
+        {
+            "name": "Kyle Black",
+            "email": "simmonsjane@example.org",
+            "chess_id": "EH80058",
+            "birthday": "15-09-1951"
+        },
+        {
+            "name": "Michael Guerrero",
+            "email": "vazqueznatalie@example.org",
+            "chess_id": "QN17136",
+            "birthday": "04-02-1969"
+        },
+        {
+            "name": "Katherine Walton",
+            "email": "prestonbrittany@example.net",
+            "chess_id": "OO65047",
+            "birthday": "28-09-1938"
+        },
+        {
+            "name": "Jeremy Pena",
+            "email": "ryancarlson@example.org",
+            "chess_id": "XF90587",
+            "birthday": "03-06-1950"
+        },
+        {
+            "name": "John Phillips",
+            "email": "gregbarnes@example.net",
+            "chess_id": "RW15089",
+            "birthday": "21-03-1935"
+        },
+        {
+            "name": "Anthony Hines",
+            "email": "ijohnston@example.org",
+            "chess_id": "LS93715",
+            "birthday": "03-06-1973"
+        }
+    ]
+}

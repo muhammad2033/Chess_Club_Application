@@ -1,0 +1,81 @@
+{
+    "Tournament Name": "fofo",
+    "Dates": {
+        "from": "01-01-2023",
+        "to": "01-01-2024"
+    },
+    "Rounds": [
+        [
+            {
+                "players": [
+                    "AA12345",
+                    "TT12345"
+                ],
+                "completed": true,
+                "winner": null
+            },
+            {
+                "players": [
+                    "XX12345",
+                    "WW12345"
+                ],
+                "completed": true,
+                "winner": "WW12345"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "XX12345",
+                    "TT12345"
+                ],
+                "completed": true,
+                "winner": "TT12345"
+            },
+            {
+                "players": [
+                    "AA12345",
+                    "WW12345"
+                ],
+                "completed": true,
+                "winner": "AA12345"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "TT12345",
+                    "WW12345"
+                ],
+                "completed": true,
+                "winner": "TT12345"
+            },
+            {
+                "players": [
+                    "XX12345",
+                    "AA12345"
+                ],
+                "completed": true,
+                "winner": "AA12345"
+            }
+        ]
+    ],
+    "Player Points": [
+        {
+            "Player": "AA12345",
+            "Points": 2.5
+        },
+        {
+            "Player": "TT12345",
+            "Points": 2.5
+        },
+        {
+            "Player": "WW12345",
+            "Points": 1
+        },
+        {
+            "Player": "XX12345",
+            "Points": 0
+        }
+    ]
+}

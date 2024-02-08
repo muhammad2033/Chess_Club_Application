@@ -1,0 +1,90 @@
+    {
+        "name": "Cornville Summer Chess",
+        "dates": {
+            "from": "21-06-2022",
+            "to": "21-07-2022"
+        },
+        "venue": "Cornville Town Hall",
+        "number_of_rounds": 4,
+        "current_round": 2,
+        "completed": false,
+        "players": [
+            "LU33889",
+            "YJ29085",
+            "PB43166",
+            "XW31336",
+            "OS93227",
+            "OU52460",
+            "AV07547",
+            "OH36083"
+        ],
+        "rounds": [
+            [
+                {
+                    "players": [
+                        "LU33889",
+                        "YJ29085"
+                    ],
+                    "completed": true,
+                    "winner": "YJ29085"
+                },
+                {
+                    "players": [
+                        "PB43166",
+                        "XW31336"
+                    ],
+                    "completed": true,
+                    "winner": "PB43166"
+                },
+                {
+                    "players": [
+                        "OS93227",
+                        "OU52460"
+                    ],
+                    "completed": true,
+                    "winner": "OU52460"
+                },
+                {
+                    "players": [
+                        "AV07547",
+                        "OH36083"
+                    ],
+                    "completed": true,
+                    "winner": null
+                }
+            ],
+            [
+                {
+                    "players": [
+                        "YJ29085",
+                        "OU52460"
+                    ],
+                    "completed": false,
+                    "winner": "OU52460"
+                },
+                {
+                    "players": [
+                        "PB43166",
+                        "AV07547"
+                    ],
+                    "completed": true,
+                    "winner": null
+                },
+                {
+                    "players": [
+                        "OH36083",
+                        "XW31336"
+                    ],
+                    "completed": false
+                },
+                {
+                    "players": [
+                        "LU33889",
+                        "OS93227"
+                    ],
+                    "completed": false,
+                    "winner": null
+                }
+            ]
+        ]
+    }

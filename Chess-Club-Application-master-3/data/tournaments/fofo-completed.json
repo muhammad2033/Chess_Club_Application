@@ -1,0 +1,73 @@
+{
+    "name": "fofo",
+    "dates": {
+        "from": "01-01-2023",
+        "to": "01-01-2024"
+    },
+    "venue": "casa",
+    "number_of_rounds": 3,
+    "current_round": 3,
+    "completed": true,
+    "players": [
+        "XX12345",
+        "AA12345",
+        "TT12345",
+        "WW12345"
+    ],
+    "rounds": [
+        [
+            {
+                "players": [
+                    "AA12345",
+                    "TT12345"
+                ],
+                "completed": true,
+                "winner": null
+            },
+            {
+                "players": [
+                    "XX12345",
+                    "WW12345"
+                ],
+                "completed": true,
+                "winner": "WW12345"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "XX12345",
+                    "TT12345"
+                ],
+                "completed": true,
+                "winner": "TT12345"
+            },
+            {
+                "players": [
+                    "AA12345",
+                    "WW12345"
+                ],
+                "completed": true,
+                "winner": "AA12345"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "TT12345",
+                    "WW12345"
+                ],
+                "completed": true,
+                "winner": "TT12345"
+            },
+            {
+                "players": [
+                    "XX12345",
+                    "AA12345"
+                ],
+                "completed": true,
+                "winner": "AA12345"
+            }
+        ]
+    ]
+}

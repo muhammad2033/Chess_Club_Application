@@ -1,0 +1,160 @@
+{
+    "name": "Chichigneux Christmas Chess Tournament",
+    "dates": {
+        "from": "21-12-2022",
+        "to": "23-12-2022"
+    },
+    "venue": "Chichigneux Community Hall",
+    "number_of_rounds": 4,
+    "current_round": null,
+    "completed": true,
+    "players": [
+        "RY03677",
+        "DP10300",
+        "PB43166",
+        "YQ88272",
+        "RI14529",
+        "AV07547",
+        "OU52460",
+        "CF24301"
+    ],
+    "finished": false,
+    "rounds": [
+        [
+            {
+                "players": [
+                    "RY03677",
+                    "DP10300"
+                ],
+                "completed": true,
+                "winner": "RY03677"
+            },
+            {
+                "players": [
+                    "PB43166",
+                    "YQ88272"
+                ],
+                "completed": true,
+                "winner": "PB43166"
+            },
+            {
+                "players": [
+                    "RI14529",
+                    "AV07547"
+                ],
+                "completed": true,
+                "winner": null
+            },
+            {
+                "players": [
+                    "OU52460",
+                    "CF24301"
+                ],
+                "completed": true,
+                "winner": null
+            }
+        ],
+        [
+            {
+                "players": [
+                    "RY03677",
+                    "PB43166"
+                ],
+                "completed": true,
+                "winner": "PB43166"
+            },
+            {
+                "players": [
+                    "RI14529",
+                    "OU52460"
+                ],
+                "completed": true,
+                "winner": "RI14529"
+            },
+            {
+                "players": [
+                    "AV07547",
+                    "CF24301"
+                ],
+                "completed": true,
+                "winner": null
+            },
+            {
+                "players": [
+                    "DP10300",
+                    "YQ88272"
+                ],
+                "completed": true,
+                "winner": "YQ88272"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "PB43166",
+                    "RI14529"
+                ],
+                "completed": true,
+                "winner": "PB43166"
+            },
+            {
+                "players": [
+                    "YQ88272",
+                    "RY03677"
+                ],
+                "completed": true,
+                "winner": "YQ88272"
+            },
+            {
+                "players": [
+                    "AV07547",
+                    "OU52460"
+                ],
+                "completed": true,
+                "winner": null
+            },
+            {
+                "players": [
+                    "DP10300",
+                    "CF24301"
+                ],
+                "completed": true,
+                "winner": "DP10300"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "PB43166",
+                    "YQ88272"
+                ],
+                "completed": true,
+                "winner": "PB43166"
+            },
+            {
+                "players": [
+                    "RI14529",
+                    "RY03677"
+                ],
+                "completed": true,
+                "winner": null
+            },
+            {
+                "players": [
+                    "DP10300",
+                    "AV07547"
+                ],
+                "completed": true,
+                "winner": "AV07547"
+            },
+            {
+                "players": [
+                    "OU52460",
+                    "CF24301"
+                ],
+                "completed": true,
+                "winner": null
+            }
+        ]
+    ]
+}
