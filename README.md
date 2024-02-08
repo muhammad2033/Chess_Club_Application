@@ -1,7 +1,7 @@
 # Chess_Club_Application
 
 I started this project for my client who was from California.
-I did lots for works for my friend accoding to his desire.
+I did lots of works for my friend according to his desire.
 And my friend did as well.
 Ultimately, it's been done perfectly.
 
